@@ -27,4 +27,4 @@ java -cp bin Main
 Nama : Andrew Isra Saputra DB  
 NIM : 13523110  
 Email : andrew.israsaputra@gmail.com  
-Insitut : Insitut Teknologi Bandung
+Institut : Insitut Teknologi Bandung
