@@ -24,6 +24,6 @@ java -cp bin Main
 ```
 
 ## Author
-Nama : Andrew Isra Saputra DB
-NIM : 13523110
+Nama : Andrew Isra Saputra DB\n
+NIM : 13523110\n
 Insitut : Insitut Teknologi Bandung
